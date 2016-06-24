@@ -224,6 +224,7 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
+    "plugins",
     "admin"
     },
     sudo_users = {172178919(our_id)},--Sudo users
